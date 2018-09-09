@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocSetiAuth</string>
+
+    <string name="vk_app_id">6687354</string>
+
+    <string name="ok_app_id">1096125440</string>
+    <string name="ok_public_key">CBANIGFCEBABABABA</string>
+    <string name="ok_secret_key">FF5161844C04525B64FA41A7</string>
+</resources>
